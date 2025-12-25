@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 💸 Personal Expense Tracker
 
 Track, visualize, and manage your daily expenses—built with React and Context API.
@@ -19,7 +18,6 @@ Track, visualize, and manage your daily expenses—built with React and Context 
 - ⚛️ React
 - 🧠 Context API
 - 🎨 CSS
-- 
 ## 📂 Features
 
 - 💰 Add, delete, and track expenses in real-time
