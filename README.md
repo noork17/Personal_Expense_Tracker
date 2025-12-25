@@ -18,6 +18,7 @@ Track, visualize, and manage your daily expenses—built with React and Context 
 - ⚛️ React
 - 🧠 Context API
 - 🎨 CSS
+  
 ## 📂 Features
 
 - 💰 Add, delete, and track expenses in real-time
@@ -29,8 +30,8 @@ Track, visualize, and manage your daily expenses—built with React and Context 
 ## 🧪 How to Run Locally
 
 ```bash
-git clone https://github.com/Sarfarazz24/personal_Expense_Tracker.git
-cd personal_Expense_Tracker
+git clone https://github.com/noork17/Personal_Expense_Tracker.git
+cd Personal_Expense_Tracker
 npm install
 npm start
 
